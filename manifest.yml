@@ -1,0 +1,5 @@
+applications:
+- name: speech-v12
+  memory: 256M
+  instances: 1
+  random-route: true
